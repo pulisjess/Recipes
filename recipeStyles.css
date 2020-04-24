@@ -1,0 +1,77 @@
+body{
+  background-image: url(images/background.jpg);
+  background-size:cover;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.navbar-brand{
+  text-decoration: none;
+ font-size:2rem;
+}
+
+
+.category{
+  display: block;
+  width:50%;
+  border:2px solid black;
+  text-align: center;
+  color:black;
+  font-size: 2rem;
+  font-family : 'Dancing Script';
+  border-radius:100px;
+ margin-left: auto;
+ margin-right:auto;
+}
+
+.category:hover{
+  background-color:rgb(255, 164, 27, 0.5);
+}
+
+.category-1{
+  margin-top:5%;
+  margin-bottom:2rem;
+}
+
+.category-2{
+  margin-bottom:2rem;
+}
+
+.category-3{
+  margin-bottom:2rem;
+}
+
+.category-4{
+  margin-bottom:2rem;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color:#000839;
+}
+
+
+.quote{
+  margin: 5% auto 0 auto;
+  font-size:3rem;
+  font-family: 'Dancing Script';
+  width:50%;
+}
+
+
+@media screen and (max-width:1250px){
+  .quote{font-size:2.5rem;}
+}
+
+@media screen and (max-width:800px){
+  .quote{
+    font-size:2rem;
+   font-weight:900;
+  }
+}

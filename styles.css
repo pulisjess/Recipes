@@ -1,0 +1,66 @@
+body{
+  background-image: url(images/homeBackground.jpg);
+  background-size: cover;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.navbar-brand{
+  text-decoration: none;
+ font-size:2rem;
+}
+
+.titleAndCarousel{
+  text-align: center;
+}
+
+.title{
+  margin-top:2rem;
+  color:#000839;
+  margin-bottom:2rem;
+  font-family: 'Dancing Script';
+  font-size: 4rem;
+}
+
+.carousel-caption{
+  color:#000;
+}
+
+
+.website-options{
+  text-align: center;
+}
+
+.options-col{
+  border:2px solid black;
+    padding-bottom : 2rem;
+}
+
+.row{
+margin-top:3rem;
+margin-bottom:5rem;
+}
+
+a{
+color:#000839;
+text-decoration: underline;
+}
+
+a:hover{
+  color:#005082;
+}
+
+.row p{
+  font-size:1.2rem;
+  font-weight:900;
+    color:#000839;
+}
+
+@media screen and (max-width:991px){
+  .options-col-2{
+    margin-top:2rem;
+  }
+}

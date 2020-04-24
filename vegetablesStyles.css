@@ -1,0 +1,35 @@
+body{
+  background-image: url(images/vegsBackground.jpg);
+  background-size: cover;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.navbar-brand{
+  text-decoration: none;
+ font-size:2rem;
+}
+
+.meal{
+  color:#000;
+font-size:1.5rem;
+}
+
+.col-lg-3{
+  text-align: center;
+}
+
+img{
+  border-radius: 100px;
+}
+
+.row-1{
+  margin-top:15%;
+}
+
+.row-2{
+  margin-top:3rem;
+}

@@ -1,0 +1,37 @@
+body{
+  background-image: url(images/soupsBackground.jpg);
+  background-size: cover;
+}
+
+.nav-link{
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+.navbar-brand{
+  text-decoration: none;
+ font-size:2rem;
+}
+
+.meal{
+font-size: 1.5rem;
+  color:#000839;
+}
+
+.col-lg-3{
+  text-align: center;
+}
+
+img{
+  border-radius: 100px;
+}
+
+.row-1{
+  margin-top:15%;
+}
+
+
+.row-2{
+  margin-top:3rem;
+  text-align: center;
+}
